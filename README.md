@@ -89,3 +89,6 @@ memoized 2nd call: 0.001s
 Приватні змінні недоступні ззовні
 Memoization значно підвищує швидкість повторних викликів
 Код реалізує усі вимоги: Counter Factory + Memoization + Fibonacci benchmark
+
+Demo video
+https://drive.google.com/file/d/1b8M8NnQ88pzYUjIdASFBz8haFeF-tS1p/view?usp=sharing
